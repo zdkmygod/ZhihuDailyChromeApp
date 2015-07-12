@@ -2,6 +2,9 @@
 ![知乎日报][1]
 下载地址：[Chrome Web Store][2]
 
+###zdkmygod-update
+调整应用的宽度
+
 ###Update
 使用angularjs重构。
 ###Lib
